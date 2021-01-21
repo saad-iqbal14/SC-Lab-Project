@@ -29,7 +29,7 @@ namespace Siri
             list.Add(new string[] { "hi", "open google", "open my picture", "open you tube", "open notepad", "who is your father", "bye", "full screen", "minimize", "exit program", "search for","dog",
             "open text reader","open b","what is today","what is the time"});
             Grammar gm = new Grammar(new GrammarBuilder(list));
-
+ 
             try
             {
                 reco.RequestRecognizerUpdate();
