@@ -44,4 +44,4 @@ namespace Siri
             s.SpeakAsync(richTextBox1.Text);
         }
     }
-}
+} 
