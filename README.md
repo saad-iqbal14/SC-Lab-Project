@@ -1,8 +1,8 @@
-# VpLabProject
+# SC Lab Project
 
 Project Name: Speech-Bot
 
-Submitted to: Sir Aamir Sohail
+Submitted to: Sir Waleed
 
 BSE-5A
 
