@@ -32,7 +32,7 @@ namespace Siri
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {
+        { 
             s.SpeakAsync(richTextBox1.Text);
         }
 
